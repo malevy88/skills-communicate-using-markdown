@@ -4,3 +4,5 @@
 ##### This should be a H4
 ##### This should be a H5
 ###### This should be a H6
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
